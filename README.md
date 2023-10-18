@@ -1,2 +1,5 @@
-# 080332
-100 Go Mistakes and How to Avoid Them &lt;Go 100가지 실수 패턴과 솔루션> 소스 코드
+# 100 Go Mistakes and How to Avoid Them
+
+Source code and community space of 📖 _100 Go Mistakes and How to Avoid Them_, published by Manning in August 2022.
+
+Read online: [100go.co](https://100go.co).
